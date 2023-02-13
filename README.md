@@ -101,8 +101,8 @@ export default class ImageSlider {
 ```
 
 2. How to set up webpack enivronment<br>
-   there are quite many concepts to explain for setting up the webpack enviornment, so i wrote it in [my Korean blog](https://blog.naver.com/thvldk0025/223012344450)
-   webpack was much more complicated to deal with than parcel-bundler but it left a strong impression that less network cost by bundling files and how far you can customize your project by adjusting one by one in detail in webpack.config.js.
+   There are quite a lot of concepts to explain for setting up the webpack environment, so I documented it in [my Korean blog](https://blog.naver.com/thvldk0025/223012344450)
+   that webpack was much more complicated to deal with than parcel-bundler. But webpack left a strong impression of less network costs by bundling files and how far you can customize your project by adjusting one-by-one in detail in webpack.config.js.
 
 ```js
 const path = require("path");
